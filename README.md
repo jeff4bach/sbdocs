@@ -5,6 +5,8 @@ is a command line utility that utilizes Open AI. To augment GPT-4 I am using a t
 to provide up to date information about Spring Boot using the Spring Boot Reference documentation. If you want to see
 how I built this application you can check out the video below. 
 
+Web chatbot ui is provided through other project - https://github.com/jeff4bach/springboot-react-docker-chatbot
+
 [YouTube Tutorial](https://youtu.be/ZoPVGrB8iHU)
 
 ## Dependencies 
